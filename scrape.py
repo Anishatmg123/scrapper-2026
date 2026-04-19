@@ -5,6 +5,9 @@ import json
 #git  => version control system
 # git config --global user.name "Anisha Lama"
 # git config --global user.email "anishamktn23@gmail.com"
+# git status => if you want to check what are the status of files
+# git add . =>track all file in current directory
+# git commit -m "first commit" => commit the changes with message
 
 url = "https://books.toscrape.com/"
 
