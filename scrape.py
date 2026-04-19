@@ -5,9 +5,14 @@ import json
 #git  => version control system
 # git config --global user.name "Anisha Lama"
 # git config --global user.email "anishamktn23@gmail.com"
+
+#git init
 # git status => if you want to check what are the status of files
 # git add . =>track all file in current directory
 # git commit -m "first commit" => commit the changes with message
+#create a repository on github
+#copy paste git code from github to push the code to github
+
 
 url = "https://books.toscrape.com/"
 
